@@ -1,0 +1,19 @@
+
+body{
+  text-align: center;
+}
+h1{
+    background-color:burlywood;
+color: rgb(247, 247, 247); 
+text-shadow: 2px 2px 5px rgb(255, 215, 83);
+letter-spacing: 20px;
+}
+.a{
+ color: rgb(0, 152, 163);
+  background-color: rgb(1, 32, 22);
+  border-radius: 500%;
+      text-decoration: underline rgb(138, 251, 255); 
+}
+h2{
+    color: white;
+}
